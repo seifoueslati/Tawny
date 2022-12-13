@@ -18,17 +18,13 @@ void btAdvertisedDeviceFound(BTAdvertisedDevice* pDevice) {
   Serial.printf("Found a device asynchronously: %s\n", pDevice->toString().c_str());
 }
 void setup() {
-  // put your setup code here, to run once:
   pinMode(contactSensorPin, INPUT_PULLUP);
   pinMode(vibration_Sensor, INPUT);
   Serial.begin(115200);
-  SerialBT.begin("TAWNY"); //Bluetooth device name
-
+  SerialBT.begin("TAWNY");
     if (btScanAsync) {
-    //Serial.print("Starting discoverAsync...");
     if (SerialBT.discoverAsync(btAdvertisedDeviceFound)) {
       delay(1000);
-      //Serial.print("Stopping discoverAsync... ");
       SerialBT.discoverAsyncStop();
     } else {
   
@@ -81,11 +77,10 @@ void loop() {
   doc["iconStates"]["oil"] = 0;  
   doc["iconStates"]["engineFail"] = 0;
   String tmp = JSON.stringify(doc);
-  //Serial.print("Value: ");
   Serial.println(tmp); 
   delay(100);
 }
 long vibration(){
-  long measurement=pulseIn (vibration_Sensor, HIGH);  //wait for the pin to get HIGH and returns measurement
+  long measurement=pulseIn (vibration_Sensor, HIGH);
   return measurement;
 }
