@@ -11,5 +11,5 @@ To use this sketch, you will need the Arduino IDE (1.8.10 or higher). You will a
 Bluetooth Serial Library : https://github.com/espressif/arduino-esp32/tree/master/libraries/BluetoothSerial .
 
 Arduino_JSON : https://github.com/arduino-libraries/Arduino_JSON .
-
+ 
 Elm327 (this code part is deleted and generated automatically for now ) : https://github.com/rudydelorenzo/ELMo  
