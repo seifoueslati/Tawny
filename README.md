@@ -80,5 +80,6 @@ https://user-images.githubusercontent.com/47242130/206878845-7fa9b06a-5b09-4a9c-
 ### MOBILE APP
 
 ![Tawny MOBILE APP](https://github.com/seifoueslati/Tawny/blob/main/images/mobilemock.jpg?raw=true)
+
 ## EXPLAINER VIDEO
 https://user-images.githubusercontent.com/47242130/206879260-24d1b756-9538-416a-9314-3eb9562e8217.mp4
