@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/seifoueslati/Tawny/blob/main/images/Logo_tawny.png?" width="448"></p>
+<p align="center"><img src="https://github.com/seifoueslati/Tawny/blob/main/images/Logo_tawny.png?" width="430"></p>
 <h1><p align="center">
 TAWNY
 </p></h1>
