@@ -32,7 +32,7 @@ turns out that some of the largest and oldest carriers are the ones with high da
 UPS delivered the highest percentage of damaged packages at 11 percent, followed by Aramex at 10
 percent and FedEx at seven percent.
 
-The key issues that all these businesses have in common are insucient driver,parcels and vehicle
+The key issues that all these businesses have in common are insuficient driver,parcels and vehicle
 visibility, which leads to a poor understanding of the state of the shipments and contributes to their
 high damage rate.
 Another issue that the clients found to be particularly frustrating is that the "tracking" application that
