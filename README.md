@@ -4,8 +4,7 @@ TAWNY
 </p></h1>
 
 ## General info
-Tawny is my end of study project (6months) , this project will be available on github soon ...
-
+Tawny is my end of study project (6months) , this project will be available on github soon ... 
 ## Problematic
 It can be really disappointing when someone waits a very long time for an item to arrive and when it
 does arrive the package is damaged.
